@@ -8,14 +8,14 @@ A GenAI-powered smart ticketing system designed to optimize incident management
 
 
 ### General Info
-The goal of this project is to optimize ticket incident management by leveraging Generative AI models to make operations more efficient, reduce company costs, and enhance the organization’s competitive position in the AI market. 
+The goal of this project is to optimize ticket incident management by leveraging Generative AI models to make operations more efficient, reduce company costs, and enhance the organization’s competitive position in the AI market. The AI solution aims to automate the ticket-related activities of the Help Desk, allowing a portion of their time and effort to be reallocated to other operations. 
 
 ## Current situation
 The Help Desk group is responsible for opening tickets and forwarding them to an external group, which handles the entire ticketing process.
 Currently, users in the financial sector who need to resolve an issue send an email containing the problem description and all necessary details, such as the beneficiary (FROM), group resolution (TO), and email Body. The Help Desk operators then analyze the email to determine whether a ticket need to be opened. If necessary, they create and forward the ticket to ServiceNow group with all relevant information.
 
-## Goal of the project
-The goal of this project is to optimize ticket incident management by leveraging Generative AI models to make operations more efficient, reduce company costs, and enhance the organization’s competitive position in the AI market. The AI solution aims to automate the ticket-related activities of the Help Desk, allowing a portion of their time and effort to be reallocated to other operations. 
+## Goal of the repository
+
 
 
 
