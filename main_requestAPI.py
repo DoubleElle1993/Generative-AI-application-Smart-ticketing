@@ -35,14 +35,14 @@ def send_request(prompt_template: str, email_template: str):
         req = urllib.request.Request(config.api_url, data=data, method='POST')
         # Creazione di un dizionario per gli header della richiesta
         headers = {
-            'Accept': 'application/json',
-            'app-userid': config.app_mail,
-            'Content-Type': 'application/json',
-            'app-acronym': 'GTAI0',
-            'app-conversation-id': '32ef3e3c-0380-494e-ba82-d84c1844a653',
-            'app-lang': 'it',
-            'app-page-name': 'HelpDeskFin',
-            'app-use-case-key': '73232de2-0c94-47ec-9fba-f5806e9e325e'
+            'Accept': '',
+            'app-userid': ,
+            'Content-Type': '',
+            'app-acronym': '',
+            'app-conversation-id': '',
+            'app-lang': '',
+            'app-page-name': '',
+            'app-use-case-key': ''
         }
         for key, value in headers.items():
             req.add_header(key, value)
@@ -138,3 +138,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
