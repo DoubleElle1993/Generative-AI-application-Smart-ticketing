@@ -3,8 +3,8 @@ with open("Prompt_1403.txt", "r") as input_file:
     prompt_template = input_file.read()
 
 # Creazione di un oggetto che contenga l'endpoint dell'API
-api_url = "http://genai-sdlc-chat-v1-gtai0-svil.cloudapps-test.intesasanpaolo.com/api/stateless/chat/simple/tech"
-app_mail = "U485984"
+api_url = ""
+app_mail = ""
 
 # Definizione del threshold per
 threshold_Beneficiario: float = 0.5
@@ -35,6 +35,7 @@ def create_data_struct(email_template, prompt_template):
         "stream": False,
         "chatType": "default"
     }
+
 
 
 
