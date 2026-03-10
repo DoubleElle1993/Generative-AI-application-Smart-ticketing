@@ -3,7 +3,7 @@ A GenAI-powered smart ticketing system designed to optimize incident management
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies] (#technologies)
+2. [Technologies](#technologies)
 3. [Current situation](#current-situation)
 4. [Goal of the project](#goal-of-the-project)
 
