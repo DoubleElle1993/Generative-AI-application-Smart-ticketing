@@ -227,28 +227,5 @@ Expected Output 5:
 
 This is the incoming email:
 "
-Da: DE FRANCO CARLO SAVERIO
-A:	SERVICEDESK.FINANZA.GSO;MXSUPPORTFO@intesasanpaolo.com;IMI Censimento Portafoglio
-Cc:	OSNAGHI CRISTIAN;MORABITO ANTONELLA;Duranti Filippo;Risk Management
-Oggetto: I: Murex - creazione nuovi portafogli Epsilon
-
-
-Buongiorno,
-potreste per cortesia creare su Murex 3 per le utenze della entity Epsilon SGR i  portafogli riportati in allegato?
-Vi preghiamo di alimentare anche il campo &#8220;COMMENT&#8221; del form Murex con &#8220;EPSILON SGR&#8221;.
-Grazie
-Cordiali saluti,
-
-Carlo
-
-Carlo Saverio De Franco
-
-Epsilon SGR
-Responsabile Risk Management
-
-Via Melchiorre Gioia, 22 -  20124 Milano
-Tel +39 02 88102813
-Cell +39 335 7363441
-carlo.defranco@epsilonsgr.it
-
 "
+
