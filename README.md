@@ -20,7 +20,7 @@ A list of technologies used within the project:
 * [json](https://.com): Version 1.19.5
 * [openpyxl](https://.com): Version 3.1.5
 * [urllib.request](https://.com): Version 2.6.3
-* [Chat GPT]: Versione 3.5 Turbo and 4.1 Mini
+* [Chat GPT](https://.com): Version 3.5 Turbo and 4.1 Mini
 
 ## Current situation
 The Help Desk group is responsible for opening tickets and forwarding them to an external group, which handles the entire ticketing process.
