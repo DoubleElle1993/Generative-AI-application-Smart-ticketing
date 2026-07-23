@@ -24,7 +24,7 @@ A list of technologies used within the project:
 * [Chat GPT](https://.com): Version 3.5 Turbo and 4.1 Mini
   
 
-### General Info
+## General Info
 The goal of this project is to optimize ticket incident management by leveraging Generative AI models to make operations more efficient, reduce company costs, and enhance the organization’s competitive position in the AI market. The AI solution aims to automate the ticket-related activities of the Help Desk group, allowing a portion of their time and effort to be reallocated to other operations. 
 
 ## Current situation
